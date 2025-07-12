@@ -27,7 +27,4 @@ To design an interactive Power BI dashboard for **analyzing 1,00,000+ bank trans
 * **Excel/CSV:** For initial transaction dataset and transformation
 * **Data Cleaning:** Power Query (ETL operations to handle nulls, format dates, categorize device types)
 
----
-
-Let me know if you want to include visuals in the README with an image link or add badges, demo GIFs, or deployment instructions.
 
