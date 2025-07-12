@@ -2,13 +2,13 @@
 
 ### 📌 **Objective**
 
-To design an interactive Power BI dashboard for **analyzing 1,00,000+ bank transactions** with the goal of identifying fraudulent activities, understanding transaction behavior, and enabling proactive monitoring through data-driven insights.
+To design an interactive Power BI dashboard for **analyzing 1000 bank transactions** with the goal of identifying fraudulent activities, understanding transaction behavior, and enabling proactive monitoring through data-driven insights.
 
 ---
 
 ### 🌟 **Key Highlights**
 
-* 🔍 **Fraud Detection Insights:** Identified and flagged **2,100+ suspicious transactions** using rule-based filters and anomaly patterns.
+* 🔍 **Fraud Detection Insights:** Identified and flagged **210+ suspicious transactions** using rule-based filters and anomaly patterns.
 * 📊 **Dynamic Dashboard Views:**
 
   * Total Transactions, Fraud Flags, Success/Failure Rate
